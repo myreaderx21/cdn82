@@ -1,0 +1,23 @@
+<!DOCTYPE html><html lang=en id=html><head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1"><meta name=fragment content=!><meta name=apple-itunes-app content="app-id=1191720421, app-argument=sspai://sspai.com"><link rel=icon href=https://cdn.sspai.com/sspai/assets/img/favicon/icon.ico><link rel=stylesheet href=https://cdn.sspai.com/static/neo/element-ui@2.4.5.css><title>少数派 - 高效工作，品质生活</title><link rel=stylesheet href=https://cdn.sspai.com/static/js/lightgallery@1.1.3/css/lightgallery.min.css><link href=/feed title=少数派 type=application/rss+xml><link href=https://cdn-edit.sspai.com/1-21-11-28c8/dist/styles/antd.css rel=stylesheet><link href=https://cdn-edit.sspai.com/1-21-11-28c8/dist/styles/index.css rel=stylesheet><script>const darkMode = window.localStorage.getItem('darkMode') ? parseInt(window.localStorage.getItem('darkMode')) : 0
+      const matchMedia = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches
+      if ((!darkMode && matchMedia) || darkMode === 2) {
+        document.getElementById('html').className='theme-dark'
+      } else {
+        document.getElementById('html').className=''
+      }</script><link href=https://static.sspai.com/static/css/app.b60e0010.css rel=preload as=style><link href=https://static.sspai.com/static/css/chunk-vendors.eb70be6e.css rel=preload as=style><link href=https://static.sspai.com/static/js/app.ce8ca30c.js rel=preload as=script><link href=https://static.sspai.com/static/js/chunk-vendors.9510885b.js rel=preload as=script><link href=https://static.sspai.com/static/css/chunk-vendors.eb70be6e.css rel=stylesheet><link href=https://static.sspai.com/static/css/app.b60e0010.css rel=stylesheet></head><body><noscript><strong>We're sorry but sspai doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=app></div><script src=https://cdn.sspai.com/static/neo/vue.runtime@2.5.16.min.js></script><script src=https://cdn.sspai.com/static/neo/vuex@3.0.1.min.js></script><script src=https://cdn.sspai.com/static/neo/vue-router@3.0.1.min.js></script><script src=https://cdn.sspai.com/static/neo/element-ui@2.4.5.js></script><script src=https://cdn.sspai.com/static/js/lightgallery@1.1.3/js/lightgallery.min.js></script><script src="//g.alicdn.com/sd/ncpc/nc.js?t=2015052012"></script><script src=https://cdn-edit.sspai.com/1-21-11-28c8/dist/libs/react/react.production.min.js></script><script src=https://cdn-edit.sspai.com/1-21-11-28c8/dist/libs/react-dom/react-dom.production.min.js></script><script src=https://cdn-edit.sspai.com/1-21-11-28c8/dist/scripts/antd.js></script><script src=https://cdn-edit.sspai.com/1-21-11-28c8/dist/scripts/vendors.js></script><script>(function(y,o,u,k,e){y['YoukeInstance']=k;y[k]=y[k]||function(){(y[k].e=y[k].e||[]).push(arguments)};e=o.createElement('script');e.async=1;e.src=u;o.currentScript.parentNode.insertBefore(e,o.currentScript);})(window,document,'https://api.youke.co/js/widget.js','$youke');</script><script>var _hmt = _hmt || [];
+      (function () {
+        var hm = document.createElement("script");
+        hm.src = "//hm.baidu.com/hm.js?92174dab8163cf598817a93d11d5c588";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+      })();</script><script>(function () {
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+          bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+        } else {
+          bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+      })();</script><script async src="https://www.googletagmanager.com/gtag/js?id=UA-45781071-2"></script><script src=https://static.sspai.com/static/js/chunk-vendors.9510885b.js></script><script src=https://static.sspai.com/static/js/app.ce8ca30c.js></script></body></html>
